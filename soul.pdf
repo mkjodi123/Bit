@@ -9,7 +9,7 @@ import os
 bot = telebot.TeleBot('7312786315:AAELW0m9U3N3XQCUFxrMEHcnT0_tmIyv9O4')
 
 # Admin user IDs
-admin_id = {"7312786315"}
+admin_id = {"7353797869"}
 
 
 USER_FILE = "users.txt"
